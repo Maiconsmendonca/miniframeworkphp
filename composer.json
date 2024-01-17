@@ -1,0 +1,15 @@
+{
+    "name": "maicon/miniframeworkphp",
+    "authors": [
+        {
+            "name": "Maicon Mendonca",
+            "email": "maicon.mendonca@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
